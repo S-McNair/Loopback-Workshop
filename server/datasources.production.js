@@ -1,6 +1,6 @@
 module.exports = {
   "MongoDB": {
-    "name": "mongoDB",
+    "name": "MongoDB",
     "connector": "mongodb",
     "url": process.env.MONGODB_URI
   }
