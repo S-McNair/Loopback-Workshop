@@ -1,3 +1,4 @@
 /client/
 datasources.local.js
+datasources.production.js
 /test/
